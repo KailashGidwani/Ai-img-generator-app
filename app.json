@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AI Image App",
-    "slug": "ai-image-app",
+    "slug": "ai-image-generator-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./logo.png",
